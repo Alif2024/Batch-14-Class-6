@@ -1,0 +1,12 @@
+
+
+  Basic Structure of a website.....
+  
+
+  Header
+
+  Body/Content
+
+
+  Footer
+
